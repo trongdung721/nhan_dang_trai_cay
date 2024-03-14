@@ -1,2 +1,2 @@
 # nhan_dang_trai_cay
-nhan dang 5 loai trai cay yolov8n
+nhan dang nam loai tray cay yolov8n
